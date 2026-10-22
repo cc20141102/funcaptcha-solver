@@ -8,4 +8,4 @@ Enterprise-Grade Arkose / FunCaptcha Solver APINext-Gen automated bypass solutio
 🎁 Beta Tester Program & ContactWe are actively onboarding early testers, engineering teams, and high-volume automation operators. Free test credits are available to benchmark our speed and success rates against your existing pipelines.Free Trial Allocation: 1,000 complimentary test requests upon registration.Direct Support & Inquiries: Telegram: @Hcapt1120Custom Enterprise Quotas: High-concurrency pools and custom endpoints available on request.Disclaimer: This API is intended strictly for authorized testing, automated regression QA, security verification, and accessibility tooling. Users must comply with all applicable terms of service and acceptable use policies of the target platforms.
 
 
-tg:Hcapt1120
+tg:@Hcapt1120
